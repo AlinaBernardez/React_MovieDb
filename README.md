@@ -1,3 +1,3 @@
 # React Movie Database.
 
-React app created with Vite usin "the movie db" API.
+React app created with Vite using "the movie db" API.
