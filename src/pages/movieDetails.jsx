@@ -19,7 +19,7 @@ export function MovieDetails() {
     const imgUrl = getMovieImg(movie.poster_path, 500);
     console.log(movie)
     let generos = movie.genres;
-    console.log(movie.genres)
+    console.log(movie.genres);
 
     return (
         <div className="movie-details">
